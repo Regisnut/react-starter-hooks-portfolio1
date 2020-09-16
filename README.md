@@ -8,13 +8,13 @@
 		alt="Capture 1"
 		src="https://github.com/Regisnut/react-starter-hooks-portfolio1/blob/master/public/images/kapture1.png">
 
-</p>
+
 <img
 		width="350"
 		alt="Capture 2"
 		src="https://github.com/Regisnut/react-starter-hooks-portfolio1/blob/master/public/images/Kapture2.png">
 
-</p>
+
 <img
 		width="350"
 		alt="Capture 3 footer"
