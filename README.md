@@ -1,6 +1,6 @@
 <h2 align="center">Your Website</h2>
 
-<p>**demo** : [click here](https://starter-artist.netlify.app)/</p>
+<p>**demo** : [click here](https://starter-artist.netlify.app/)</p>
 
 <p align="center">
 <img
